@@ -4,8 +4,10 @@
 - 📫 How to reach me ... revinojake@gmail.com
 
 This is my repository for the work I did at UCSC, between 2020-2023.
-It contains projects across many platforms. See if you can tell where
-I began to figure things out. 
+It contains projects across many platforms. Some projects will
+portray excellent programming practices, and other will not. My hopes
+are that this repo will serve as an example of my capabilities
+and show my progression throughout my student years.
 
 ** more to come from this description
 
